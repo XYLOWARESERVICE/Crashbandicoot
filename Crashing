@@ -12620,7 +12620,7 @@ SafeActionsSection:button({
 
     SafeActionsSection:label({
         wrapped = true,
-        name = "Extra tools for managing your safe."
+        name = "Extra Duping tools for resellers."
     })
 end
 
