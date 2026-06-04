@@ -257,7 +257,7 @@ local Config = {
         ["Selected_Item"] = "...";
 
         ["TeleportationList"] = {
-            ["Deli Market 🥪"] = CFrame.new(-602.3944091796875, 253.73313903808594, -584.2000732421875);
+            ["Deli Market 🥪"] = CFrame.new(-737.89, 255.03, -696.31);
             ["Capital One Bank 🏦"] = CFrame.new(-225.04, 283.81, -1206.19);
             ["Ice Box 🧊"] = CFrame.new(-198.8927001953125, 283.8486633300781, -1170.4500732421875);
             ["Domino's 🍕"] = CFrame.new(-742.5213012695312, 253.22897338867188, -946.2092895507812);
